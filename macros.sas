@@ -1,6 +1,5 @@
 options mstored sasmstore = macstore;
-libname macstore '\\psf\Dropbox\anomalies paper\1_Data\Code\Macros';
-/*libname macstore 'H:\Dropbox\anomalies paper\1_Data\Code\Macros';*/
+libname macstore '\\MACRO_FOLDER';
 
 /*** macros ***/
 
